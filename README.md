@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm KEVAL CHHEDA</h1>
-<h3 align="center">Software Developer from india</h3>
+<h3 align="center">Senior Software Engineer from india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keval-chheda&label=Profile%20views&color=0e75b6&style=flat" alt="keval-chheda" /> </p>
 
 - 🌱 I’m currently enhancing my skills in **DSA & System Design**
 
-- 💬 Ask me about **React, Java, Springboot**
+- 💬 Ask me about **Java, Springboot, React**
 
 - 📫 How to reach me **kevalchheda.kc123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pramodpowar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodpowar" height="30" width="40" /></a>
-<a href="https://instagram.com/pamya28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pamya28" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/keval-chheda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodpowar" height="30" width="40" /></a>
+<a href="https://instagram.com/_kevalchheda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pamya28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
