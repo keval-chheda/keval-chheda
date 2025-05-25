@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/keval-chheda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodpowar" height="30" width="40" /></a>
-<a href="https://instagram.com/_kevalchheda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pamya28" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/keval-chheda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevalchheda" height="30" width="40" /></a>
+<a href="https://instagram.com/_kevalchheda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevalchheda" height="30" width="40" /></a>
 </p>
 
 ---
@@ -39,11 +39,16 @@
 
 <h3 align="left">✍️ Articles & Blogs:</h3>
 <p align="left">
-  <a href="https://hashnode.com/@kevalchheda" target="_blank">
-    <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="hashnode" height="30" width="40" />
+  <a href="https://hashnode.com/@kevalchheda" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="hashnode" height="30" width="40" />
+  </a>
+  <a href="https://dev.to/kevalchheda" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@kevalchheda" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
   </a>
 </p>
-
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
