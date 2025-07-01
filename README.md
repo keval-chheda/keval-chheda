@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="left">🧠 Competitive Programming Profiles:</h3>
+<!--<h3 align="left">🧠 Competitive Programming Profiles:</h3>
 <p align="left">
   <a href="https://leetcode.com/u/onlychheda/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" />
@@ -33,9 +33,9 @@
   <a href="https://www.geeksforgeeks.org/user/onlychheda/" target="_blank">
     <img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="geeksforgeeks" height="30" width="30" />
   </a>
-</p>
+</p> 
 
----
+--- -->
 
 <h3 align="left">✍️ Articles & Blogs:</h3>
 <p align="left">
